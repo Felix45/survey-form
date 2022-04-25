@@ -1,0 +1,15 @@
+form{
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: aqua;
+}
+form *{
+    margin-bottom: 10px;
+}
+button{
+    padding: 10px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
